@@ -1,0 +1,19 @@
+.footer{
+    position: absolute;
+    left:10px;
+    right:10px;
+    height:60px;
+    background-color: darkgray;
+    color:rgb(0, 0, 72);
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.tableauPosi{
+    width: 75%;
+    left: 10px;
+}
+
+.text{
+    font-size: large;
+    text-align: center;
+}
